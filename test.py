@@ -1,1 +1,1 @@
-2*2
+print('tony rocks')
